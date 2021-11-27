@@ -21,7 +21,7 @@ Lors de ce développement nous utiliserons Intellij.
 Configuration du poste :
 - Utiliser l'IDE IntelliJ Community
 - Importer le projet en tant que projet sbt
-- Installer le plugins Scala
+- Installer le plugin Scala
 
 Déroulement :
 - Pour chaque exercice, faites un `git checkout` sur le numéro de l'exercice. (i.e `git checkout Exercice1`)
